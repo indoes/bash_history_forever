@@ -1,5 +1,6 @@
 # bash_history_forever
 ###### Keep bash history forever on CentOS 7 and up.
+<br />
 
 1. Append .bashrc to the end of your ~/.bashrc
 <br />
