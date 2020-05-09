@@ -4,6 +4,7 @@ HISTFILESIZE=
 HISTSIZE=
 HISTCONTROL=ignoredups
 # ignore trivial one and two character commands
+#HISTIGNORE=?:??
 HISTIGNORE='history*'
 # append to history, don't overwrite it
 shopt -s histappend
